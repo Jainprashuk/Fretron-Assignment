@@ -23,10 +23,10 @@ The "No Accident Please" project visualizes flight paths using React and D3.js. 
 
 To get started, first clone the repository:
 
-git clone https://github.com/Jainprashuk/Fretron-Assignment.git
-cd TaskOne
-npm install
-npm run dev 
+1. git clone https://github.com/Jainprashuk/Fretron-Assignment.git
+2. cd TaskOne
+3. npm install
+4. npm run dev 
 
 ## My Money My Shares
 
@@ -42,6 +42,6 @@ The "My Money My Shares" project is a C++ program that distributes apples among 
 
 To get started, first clone the repository:
 
-git clone https://github.com/yourusername/flight-path-visualization.git
-cd TaskTwo
-run index.cpp
+1. git clone https://github.com/Jainprashuk/Fretron-Assignment.git
+2. cd TaskTwo
+3. run index.cpp
